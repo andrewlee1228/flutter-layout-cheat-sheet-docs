@@ -4,7 +4,7 @@
   "twitter": "invertaseio",
   "sidebar": [
     ["Overview", "/"],
-    ["Row And Column", "/row-and-column"],
+    ["Row And Column", "/row-and-column"]
   ],
   "docsearch": {
     "apiKey": "9b58d13ee3195094105d528fc6161a01",
